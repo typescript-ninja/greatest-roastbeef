@@ -1,5 +1,1 @@
-# test
-
-git@github.com:vvakame/greatest-roastbeef.git
-
-# greatest-roastbeef
+# transfer to typescript-ninja
